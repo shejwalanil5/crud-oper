@@ -1,0 +1,72 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "abd",
+      "username": "Bret",
+      "email": "abc3@april.biz",
+      "phone": "1234567899",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 2,
+      "name": "Anil Shejwal",
+      "username": "Anto",
+      "email": "shejwalanil65@gmail.com",
+      "phone": "7028181995",
+      "website": "gildegard.org"
+    },
+    {
+      "id": 4,
+      "name": "dnne Graham",
+      "username": "bntonn",
+      "email": "dncere2@april.biz",
+      "phone": "4-770-736-8031 x56442",
+      "website": "aildegard.org"
+    },
+    {
+      "id": 5,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere2@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 6,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere2@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 7,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere2@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "id": 8,
+      "name": "Leanne Graham",
+      "username": "Bret",
+      "email": "Sincere2@april.biz",
+      "phone": "1-770-736-8031 x56442",
+      "website": "hildegard.org"
+    },
+    {
+      "name": "anil",
+      "email": "shejwalanil5@gmail.com",
+      "phone": "+917875882988",
+      "id": 11
+    },
+    {
+      "name": "Shejwal",
+      "email": "shej@gmail.com",
+      "phone": "123233223",
+      "id": 12
+    }
+  ]
+}
